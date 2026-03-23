@@ -1,4 +1,6 @@
+performance Windows and Web applications. My expertise bridges the gap between traditional desktop development and modern web technologies, specializing in C#, .NET (WPF/ASP.NET Core), and modern JavaScript/TypeScript ecosystems.
 
+I don't just write code; I engineer solutions. My philosophy revolves around Clean Code, SOLID principles, and long-term maintainability. Every line of code is crafted with precision and purpose.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saif__mziri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-mziri-8530b037b) 
 
